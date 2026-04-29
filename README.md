@@ -521,7 +521,7 @@ furnished to do so, subject to the following conditions:
 
 If this project helped you, please consider giving it a ⭐️!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/HandGestureDetector&type=Date)](https://star-history.com/#yourusername/HandGestureDetector&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=sanath-kumar-s/Virtual-Mouse&type=Date)](https://star-history.com/#sanath-kumar-s/Virtual-Mouse&Date)
 
 ---
 
