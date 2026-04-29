@@ -55,6 +55,12 @@ Perfect for:
 - 🎮 **Interactive Displays** - Touch-free interaction for public installations
 - 🚀 **Innovation** - Explore the future of human-computer interaction
 
+<h1 align="center">
+  <img src="screen_image.png" width="800" alt="Virtual Mouse Banner">
+  
+</h1>
+
+
 ---
 
 ## ✨ Key Features
